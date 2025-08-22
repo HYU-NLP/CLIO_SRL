@@ -7,9 +7,9 @@ CLIO_SRL은 한국어 서사 복원 프로젝트의 SRL(Narrative Semantic Role 
 
 ## 🧐 Pip install 
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
