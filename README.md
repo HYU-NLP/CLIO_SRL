@@ -5,6 +5,14 @@ CLIO_SRL은 한국어 서사 복원 프로젝트의 SRL(Narrative Semantic Role 
 
 ---
 
+## 🧐 Pip install 
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+---
+
 ## 📂 Data Preparation
 
 1. 다음 링크에서 [`CLIO SRL dataset_ver2.json`](https://github.com/clioisds/Narrative_mining/tree/main) 파일을 다운로드합니다.
