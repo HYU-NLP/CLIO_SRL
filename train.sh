@@ -1,0 +1,9 @@
+python train.py \
+    --model klue/roberta-large \
+    --output_dir ./clio_result \
+    --num_train_epochs 10 \
+    --learning_rate 5e-5 \
+    --per_device_train_batch_size 32 \
+    --per_device_eval_batch_size 32 \
+    --weight_decay 0.01 \
+    --evaluation_strategy epoch \
