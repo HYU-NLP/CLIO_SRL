@@ -2,6 +2,10 @@
 
 CLIO_SRL은 한국어 서사 복원 프로젝트의 SRL(Narrative Semantic Role Labeling)을 위한 시스템입니다.  
 이 저장소는 SRL 태스크를 위한 **데이터 준비**, **모델 학습**, 그리고 **추론 과정**을 포함합니다.
+👉 본 레포지토리는 아래 논문에서 사용된 시스템 구현 코드입니다.  
+권은낭, 송준모, 서동건, 이강민, 김태욱, 강정한. (2025). *한국어 의미역 결정 모형을 통한 텍스트 내 서사 구조 분석 방법*.  
+**한국사회학, 59(3), 101-146.**  
+[🔗 논문 바로가기](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003242355)
 
 ---
 
