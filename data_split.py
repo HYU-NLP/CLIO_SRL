@@ -18,7 +18,7 @@ test_data = data[n_train + n_valid:]
 with open('./data/clio_train.json', 'w', encoding='utf-8') as f:
     json.dump(train_data, f, ensure_ascii=False, indent=2)
 
-with open('./data/clio_valid.json', 'w', encoding='utf-8') as f:
+with open('./data/clio_val.json', 'w', encoding='utf-8') as f:
     json.dump(valid_data, f, ensure_ascii=False, indent=2)
 
 with open('./data/clio_test.json', 'w', encoding='utf-8') as f:
